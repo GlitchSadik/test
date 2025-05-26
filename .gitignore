@@ -1,3 +1,29 @@
 .env
 UpscalePi/docs/
 UpscalePi/chunks.pkl
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Virtual environments
+env/
+venv/
+*.env
+
+# RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
+
+# Logs & outputs
+*.log
+*.out
+*.tmp
+
+# System
+Thumbs.db
